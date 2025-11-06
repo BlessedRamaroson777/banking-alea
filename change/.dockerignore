@@ -1,0 +1,10 @@
+# Fichiers à ignorer lors du build Docker
+.git/
+.gitignore
+.vscode/
+*.md
+*.bat
+deploy.bat
+.dockerignore
+src/
+pom.xml

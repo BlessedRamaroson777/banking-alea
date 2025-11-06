@@ -1,0 +1,4 @@
+# Configuration pour Docker - Utilise host.docker.internal pour accéder au PostgreSQL local
+db.url=jdbc:postgresql://host.docker.internal:5432/banque_change
+db.username=postgres
+db.password=blessed
